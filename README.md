@@ -23,4 +23,4 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 
 #Trust in God!
-s
+
